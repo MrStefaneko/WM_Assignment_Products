@@ -3,8 +3,10 @@
 }
 
 <h2>Print Products from JSON file</h2>
-
-<table>
+<p>
+    @Html.ActionLink("Add new product", "InsertJSON")
+</p>
+<table border="1">
     <tr>
         <th>ID</th>
         <th>Name</th>
@@ -13,6 +15,7 @@
         <th>Manufacturer</th>
         <th>Supplier</th>
         <th>Price</th>
+        <th><u>Manage</u></th>
     </tr>
     @foreach (var p in ViewBag.Products)
     {
@@ -24,6 +27,7 @@
             <td>@p.Manufacturer</td>
             <td>@p.Supplier</td>
             <td>@p.Price</td>
+            <td>@Html.ActionLink("Edit", "EditJSON", new { Id = p.ID })</td>
         </tr>
     }
 </table>

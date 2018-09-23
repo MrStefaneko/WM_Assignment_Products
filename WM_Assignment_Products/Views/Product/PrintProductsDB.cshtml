@@ -6,7 +6,10 @@
 
 <h2>Print Products from Database</h2>
 
-<table>
+<p>
+    @Html.ActionLink("Add new product", "InsertDB")
+</p>
+<table border="1">
     <tr>
         <th>ID</th>
         <th>Name</th>
@@ -15,18 +18,21 @@
         <th>Manufacturer</th>
         <th>Supplier</th>
         <th>Price</th>
-   </tr>
+        <th><u>Manage</u></th>
+    </tr>
 
-        @foreach (var p in ViewBag.Products)
-        {
-            <tr>
-                <td>@p.ID</td>
-                <td>@p.Name</td>
-                <td>@p.Description</td>
-                <td>@p.Category</td>
-                <td>@p.Manufacturer</td>
-                <td>@p.Supplier</td>
-                <td>@p.Price</td>
-           </tr>
-        }
+    @foreach (var p in ViewBag.Products)
+    {
+        <tr>
+            <td>@p.ID</td>
+            <td>@p.Name</td>
+            <td>@p.Description</td>
+            <td>@p.Category</td>
+            <td>@p.Manufacturer</td>
+            <td>@p.Supplier</td>
+            <td>@p.Price</td>
+
+            <td>@Html.ActionLink("Edit", "Edit", new { Id = p.ID })</td>
+        </tr>
+    }
 </table>
