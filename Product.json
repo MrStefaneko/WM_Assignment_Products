@@ -1,0 +1,391 @@
+{
+"products" : [
+ {
+   "ID": 1,
+   "Name": "iPad Pro 10.5",
+   "Description": "512GB",
+   "Category": "Tablet",
+   "Manufacturer": "Apple",
+   "Supplier": "KNB International",
+   "Price": 900
+ },
+ {
+   "ID": 2,
+   "Name": "Apple iPhone X",
+   "Description": "256GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Apple",
+   "Supplier": "KNB International",
+   "Price": 1100
+ },
+ {
+   "ID": 3,
+   "Name": "Galaxy S9 Plus Dual SIM",
+   "Description": "256GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Samsung",
+   "Supplier": "KNB International",
+   "Price": 800
+ },
+ {
+   "ID": 4,
+   "Name": "Galaxy Note 9 Dual SIM",
+   "Description": "128GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Samsung",
+   "Supplier": "KNB International",
+   "Price": 950
+ },
+ {
+   "ID": 5,
+   "Name": "Google Pixel XL",
+   "Description": "128GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "HTC",
+   "Supplier": "KNB International",
+   "Price": 770
+ },
+ {
+   "ID": 6,
+   "Name": "G7 ThinQ Dual SIM",
+   "Description": "64GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "LG",
+   "Supplier": "KNB International",
+   "Price": 600
+ },
+ {
+   "ID": 7,
+   "Name": "Galaxy Tab S2",
+   "Description": "9.7 (2016) Wifi 32GB",
+   "Category": "Tablet",
+   "Manufacturer": "Samsung",
+   "Supplier": "KNB International",
+   "Price": 350
+ },
+ {
+   "ID": 8,
+   "Name": "43uk6200",
+   "Description": "UHD, webos4, black",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "KNB International",
+   "Price": 300
+ },
+ {
+   "ID": 9,
+   "Name": "43uk6300",
+   "Description": "UHD, webos4, black",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "KNB International",
+   "Price": 390
+ },
+ {
+   "ID": 10,
+   "Name": "43uk6500",
+   "Description": "UHD, webos4, silver",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "KNB International",
+   "Price": 420
+ },
+ {
+   "ID": 11,
+   "Name": "43uk6950",
+   "Description": "UHD, webos4, titan, magic remote",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "KNB International",
+   "Price": 460
+ },
+ {
+   "ID": 12,
+   "Name": "UTP Cable",
+   "Description": "cat. 5e network cable, 20m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "KNB International",
+   "Price": 8.99
+ },
+ {
+   "ID": 13,
+   "Name": "RF Cable",
+   "Description": "75dB, 1.5m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "KNB International",
+   "Price": 0.5
+ },
+ {
+   "ID": 14,
+   "Name": "HDMI Cable",
+   "Description": "HDMI-HDMI 2m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "KNB International",
+   "Price": 4.99
+ },
+ {
+   "ID": 15,
+   "Name": "Adapter USB Type C - HDMI",
+   "Description": "black",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "KNB International",
+   "Price": 35
+ },
+ {
+   "ID": 16,
+   "Name": "iPad Pro 10.5",
+   "Description": "512GB",
+   "Category": "Tablet",
+   "Manufacturer": "Apple",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 1100
+ },
+ {
+   "ID": 17,
+   "Name": "Apple iPhone X",
+   "Description": "256GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Apple",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 1200
+ },
+ {
+   "ID": 18,
+   "Name": "Galaxy S9 Plus Dual SIM",
+   "Description": "256GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Samsung",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 750
+ },
+ {
+   "ID": 19,
+   "Name": "Galaxy Note 9 Dual SIM",
+   "Description": "128GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Samsung",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 880
+ },
+ {
+   "ID": 20,
+   "Name": "Google Pixel XL",
+   "Description": "128GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "HTC",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 950
+ },
+ {
+   "ID": 21,
+   "Name": "G7 ThinQ Dual SIM",
+   "Description": "64GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "LG",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 560
+ },
+ {
+   "ID": 22,
+   "Name": "Galaxy Tab S2",
+   "Description": "9.7 (2016) Wifi 32GB",
+   "Category": "Tablet",
+   "Manufacturer": "Samsung",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 300
+ },
+ {
+   "ID": 23,
+   "Name": "43uk6300",
+   "Description": "UHD, webos4, black",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 450
+ },
+ {
+   "ID": 24,
+   "Name": "43uk6400",
+   "Description": "UHD, webos4, havana brown",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 380
+ },
+ {
+   "ID": 25,
+   "Name": "43uk6950",
+   "Description": "UHD, webos4, titan, magic remote",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 520
+ },
+ {
+   "ID": 26,
+   "Name": "UTP Cable",
+   "Description": "cat. 5e network cable, 20m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 11
+ },
+ {
+   "ID": 27,
+   "Name": "RF Cable",
+   "Description": "75dB, 1.5m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 0.99
+ },
+ {
+   "ID": 28,
+   "Name": "HDMI Cable",
+   "Description": "HDMI-HDMI 2m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 4.6
+ },
+ {
+   "ID": 29,
+   "Name": "Adapter USB Type C - HDMI",
+   "Description": "black",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "Global Trade Ltd.",
+   "Price": 40
+ },
+ {
+   "ID": 30,
+   "Name": "iPad Pro 10.5",
+   "Description": "512GB",
+   "Category": "Tablet",
+   "Manufacturer": "Apple",
+   "Supplier": "EL Tech M&S",
+   "Price": 1099.99
+ },
+ {
+   "ID": 31,
+   "Name": "Apple iPhone X",
+   "Description": "256GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Apple",
+   "Supplier": "EL Tech M&S",
+   "Price": 1130
+ },
+ {
+   "ID": 32,
+   "Name": "Galaxy S9 Plus Dual SIM",
+   "Description": "256GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Samsung",
+   "Supplier": "EL Tech M&S",
+   "Price": 700
+ },
+ {
+   "ID": 33,
+   "Name": "Galaxy Note 9 Dual SIM",
+   "Description": "128GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "Samsung",
+   "Supplier": "EL Tech M&S",
+   "Price": 830
+ },
+ {
+   "ID": 34,
+   "Name": "Google Pixel XL",
+   "Description": "128GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "HTC",
+   "Supplier": "EL Tech M&S",
+   "Price": 950
+ },
+ {
+   "ID": 35,
+   "Name": "G7 ThinQ Dual SIM",
+   "Description": "64GB",
+   "Category": "Mobile phone",
+   "Manufacturer": "LG",
+   "Supplier": "EL Tech M&S",
+   "Price": 580
+ },
+ {
+   "ID": 36,
+   "Name": "Galaxy Tab S2",
+   "Description": "9.7 (2016) Wifi 32GB",
+   "Category": "Tablet",
+   "Manufacturer": "Samsung",
+   "Supplier": "EL Tech M&S",
+   "Price": 290
+ },
+ {
+   "ID": 37,
+   "Name": "43uk6300",
+   "Description": "UHD, webos4, black",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "EL Tech M&S",
+   "Price": 450
+ },
+ {
+   "ID": 38,
+   "Name": "43uk6400",
+   "Description": "UHD, webos4, havana brown",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "EL Tech M&S",
+   "Price": 350
+ },
+ {
+   "ID": 39,
+   "Name": "43uk6950",
+   "Description": "UHD, webos4, titan, magic remote",
+   "Category": "TV",
+   "Manufacturer": "LG",
+   "Supplier": "EL Tech M&S",
+   "Price": 500
+ },
+ {
+   "ID": 40,
+   "Name": "UTP Cable",
+   "Description": "cat. 5e network cable, 20m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "EL Tech M&S",
+   "Price": 9.5
+ },
+ {
+   "ID": 41,
+   "Name": "RF Cable",
+   "Description": "75dB, 1.5m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "EL Tech M&S",
+   "Price": 1
+ },
+ {
+   "ID": 42,
+   "Name": "HDMI Cable",
+   "Description": "HDMI-HDMI 2m",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "EL Tech M&S",
+   "Price": 5
+ },
+ {
+   "ID": 43,
+   "Name": "Adapter USB Type C - HDMI",
+   "Description": "black",
+   "Category": "Cables and Adapters",
+   "Manufacturer": "Hama",
+   "Supplier": "EL Tech M&S",
+   "Price": 40
+ }
+]
+}
