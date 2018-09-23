@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "PrintProductsJSON";
+}
+
+<h2>Print Products from JSON file</h2>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Category</th>
+        <th>Manufacturer</th>
+        <th>Supplier</th>
+        <th>Price</th>
+    </tr>
+    @foreach (var p in ViewBag.Products)
+    {
+        <tr>
+            <td>@p.ID</td>
+            <td>@p.Name</td>
+            <td>@p.Description</td>
+            <td>@p.Category</td>
+            <td>@p.Manufacturer</td>
+            <td>@p.Supplier</td>
+            <td>@p.Price</td>
+        </tr>
+    }
+</table>
